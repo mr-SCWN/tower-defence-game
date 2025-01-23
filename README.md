@@ -15,4 +15,4 @@ Celem gry jest ochrona bazy przed wrogami poprzez stawianie wież obronnych. Ist
 - R - restart gry
 
 
-[Zobacz demo (Film_Tower_Defence.mp4)](./Film_Tower_Defence.mp4)
+[Zainstaluj demo (Film_Tower_Defence.mp4)](./Film_Tower_Defence.mp4)
