@@ -1,0 +1,34 @@
+﻿mtllib kostka.mtl
+usemtl cegielki
+#Wsp. wierzchołków
+v -1 -1 -1
+v -1 -1 1
+v 1 -1 -1
+v 1 -1 1
+v -1 1 -1
+v -1 1 1
+v 1 1 -1
+v 1 1 1
+#Wsp. teksturowania
+vt 0 0
+vt 1 0
+vt 1 1
+vt 0 1
+#Wektory normalne
+vn 0 0 -1
+vn 0 0 1
+vn 0 -1 0
+vn 0 1 0
+vn -1 0 0
+vn 1 0 0
+#Definicja obiektu
+o kostka
+g sciana_dolna_i_gorna
+f 1/1/3 3/4/3 4/3/3 2/2/3
+f 5//4 6/2/4 8/3/4 7/4/4
+g sciana_lewa_i_prawa
+f 5/1/5 1/2/5 2/3/5 6/4/5
+f 7/1/6 8/2/6 4/3/6 3/4/6
+g sciana_tylna_i_przednia
+f 5/1/1 7/2/1 3/3/1 1/4/1
+f 2/1/2 4/2/2 8/3/2 6/4/2
